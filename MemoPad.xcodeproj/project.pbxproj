@@ -14,6 +14,7 @@
 		A726F2AA2148AC5E00F7B523 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A726F2A82148AC5E00F7B523 /* LaunchScreen.storyboard */; };
 		A726F2B52148AC5F00F7B523 /* MemoPadTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A726F2B42148AC5F00F7B523 /* MemoPadTests.swift */; };
 		A726F2C02148AC5F00F7B523 /* MemoPadUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A726F2BF2148AC5F00F7B523 /* MemoPadUITests.swift */; };
+		A726F2CE2148B41B00F7B523 /* MemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A726F2CD2148B41B00F7B523 /* MemoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A726F2BB2148AC5F00F7B523 /* MemoPadUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MemoPadUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A726F2BF2148AC5F00F7B523 /* MemoPadUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoPadUITests.swift; sourceTree = "<group>"; };
 		A726F2C12148AC5F00F7B523 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A726F2CD2148B41B00F7B523 /* MemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				A726F29F2148AC5C00F7B523 /* AppDelegate.swift */,
 				A726F2A12148AC5C00F7B523 /* ViewController.swift */,
 				A726F2A32148AC5C00F7B523 /* Main.storyboard */,
+				A726F2CD2148B41B00F7B523 /* MemoViewController.swift */,
 				A726F2A62148AC5E00F7B523 /* Assets.xcassets */,
 				A726F2A82148AC5E00F7B523 /* LaunchScreen.storyboard */,
 				A726F2AB2148AC5E00F7B523 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				A726F2A22148AC5C00F7B523 /* ViewController.swift in Sources */,
 				A726F2A02148AC5C00F7B523 /* AppDelegate.swift in Sources */,
+				A726F2CE2148B41B00F7B523 /* MemoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
